@@ -110,10 +110,12 @@ canvas {
 }
 
 .cake img {
-  /* width: 150px; */
-  height: auto;
+  width: 150px;
+  /* height: 200px; */
   animation: bounce 2s infinite;
   border-radius: 50%;
+  position: relative;
+  bottom: 75px;
 }
 
 @keyframes bounce {
