@@ -56,9 +56,7 @@ function startConfetti() {
 }
 
 function showMessage() {
-  alert(
-    " Chúc em 20/10 vui vẻ hạnh phúc, đạt được nhiều thành tích tốt trong học tập. Luôn tràn đầy năng lượng!!!.  Luôn giữ được tinh thần lạc quan phấn đấu để đạt được điều mong muốn. Tóm lại chúc em 20/10 có tất cả ♥️♥️"
-  );
+  alert(" alo alo");
 }
 
 window.addEventListener("resize", resizeCanvas);
