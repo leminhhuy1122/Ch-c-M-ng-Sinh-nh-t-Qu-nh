@@ -57,7 +57,7 @@ function startConfetti() {
 
 function showMessage() {
   alert(
-    "Nếu như có một ngày bạn thật sự bế tắc và mọi cánh cửa dường như đã khép lại thì hãy yên tâm rằng luôn có một người sẵn lòng san sẻ với bạn, đó là tôi. Chúc mừng sinh nhật nhé bạn của tôi!"
+    " Chúc em 20/10 vui vẻ hạnh phúc, đạt được nhiều thành tích tốt trong học tập. Luôn tràn đầy năng lượng!!!.  Luôn giữ được tinh thần lạc quan phấn đấu để đạt được điều mong muốn. Tóm lại chúc em 20/10 có tất cả ♥️♥️"
   );
 }
 
